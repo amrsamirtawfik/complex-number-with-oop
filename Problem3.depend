@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636550334 source:e:\others\programming course\classes report\problem3\main.cpp
+	<iostream>
+	<Complex.h>
+
+1636550122 e:\others\programming course\classes report\problem3\include\complex.h
+
+1636550122 source:e:\others\programming course\classes report\problem3\src\complex.cpp
+	"Complex.h"
+	<iostream>
+
